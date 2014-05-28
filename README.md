@@ -7,8 +7,8 @@ Cmvc is really a very old code management tool. What a pity, if you have to use 
 ## Technology
 
 * **Interactive Interface**
-	1. [bootstrap](http://getbootstrap.com/)
-	2. [node-webkit](https://github.com/rogerwang/node-webkit)
+	+ [bootstrap](http://getbootstrap.com/)
+	+ [node-webkit](https://github.com/rogerwang/node-webkit)
 
 * **Cmvc Related Operations**
-	1. Java
+	+ Java
