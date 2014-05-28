@@ -1,0 +1,13 @@
+{
+	"name": "CodeSync",
+	"main": "app/index.html",
+	"window": {
+		"title": "CodeSync",
+		"width": 1200,
+		"height": 800,
+		"min_width": 1200,
+		"min_height": 800,
+		"toolbar": false,
+		"frame": false
+	}
+}

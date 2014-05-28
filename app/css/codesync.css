@@ -1,0 +1,66 @@
+#window {
+	list-style:none;
+	position:relative;
+	margin-top:10px;
+	margin-right:-15px;
+}
+
+#window li {
+	width:20px;
+	height:25px;
+	display:inline;
+	position:absolute;
+	-webkit-app-region:no-drag;
+}
+
+#window-min {
+	right:50px;
+	background:url('../img/min.png') 0 0;
+}
+
+#window-min:hover {
+	background:url('../img/min.png') -20px 0;
+}
+
+#window-min:active {
+	background:url('../img/min.png') -40px 0;
+}
+
+#window-max {
+	right:25px;
+	background:url('../img/max.png') 0 0;
+}
+
+#window-max:hover {
+	background:url('../img/max.png') -20px 0;
+}
+
+#window-max:active {
+	background:url('../img/max.png') -40px 0;
+}
+
+#window-normal {
+	right:25px;
+	background:url('../img/normal.png') 0 0;
+}
+
+#window-normal:hover {
+	background:url('../img/normal.png') -20px 0;
+}
+
+#window-normal:active {
+	background:url('../img/normal.png') -40px 0;
+}
+
+#window-close {
+	right:0px;
+	background:url('../img/close.png') 0 0;
+}
+
+#window-close:hover {
+	background:url('../img/close.png') -27px 0;
+}
+
+#window-close:active {
+	background:url('../img/close.png') -54px 0;
+}
