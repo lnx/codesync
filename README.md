@@ -6,5 +6,9 @@ Cmvc is really a very old code management tool. What a pity, if you have to use 
 
 ## Technology
 
-* **Interactive interface** uses node-webkit.
-* **Cmvc related operations** use Java to comunicate with cmvc repository server.
+* **Interactive Interface**
+** [bootstrap](http://getbootstrap.com/)
+** [node-webkit](https://github.com/rogerwang/node-webkit)
+
+* **Cmvc Related Operations** use Java to comunicate with cmvc repository server.
+** Java
